@@ -1,5 +1,9 @@
 # DS8008_FINAL_PROJECT
 
+
+
+# Results
+
 | MODEL           | GPU        | GAME  |MOVIE | PHONE |
 | -------------   |:----------:| -----:|-----:|-----: |
 | Random(BiDAF)   | 0.259      | 0.155 |0.267|0.223|
