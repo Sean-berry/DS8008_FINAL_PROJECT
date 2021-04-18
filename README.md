@@ -2,7 +2,7 @@
 
 
 
-# Results
+# Final Results
 
 | MODEL           | GPU        | GAME  |MOVIE | PHONE |
 | -------------   |:----------:| -----:|-----:|-----: |
