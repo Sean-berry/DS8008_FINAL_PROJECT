@@ -1,5 +1,6 @@
 # DS8008_FINAL_PROJECT
 
+/***
 \begin{table}[!htb]
 \caption*{\textbf{BiDAF with traditional aggregations, RL methods and Oracle strategy.}}
 \begin{tabular}{lllll}
@@ -58,3 +59,5 @@ Oracle(QANet)     & 0.932        & 0.840         & 0.878          & 0.868
 
 \end{tabular}
 \end{table}
+
+***/
