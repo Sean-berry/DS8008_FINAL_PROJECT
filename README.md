@@ -15,7 +15,7 @@ unicodedata2
 
 tensorflow==1.15.1
 
-# Final Results
+# Results with pretrained models 
 
 | MODEL           | GPU        | GAME  |MOVIE | PHONE |
 | -------------   |:----------:| -----:|-----:|-----: |
