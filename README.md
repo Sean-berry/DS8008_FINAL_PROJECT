@@ -52,7 +52,7 @@ Oracle(QANet)      |0.932        | 0.840       |   0.878          | 0.868  |
 
 
 
-@inproceedings{inproceedings,
+{
 author = {Liu, Ye and Zhang, Sheng and Song, Rui and Feng, Suo and Xiao, Yanghua},
 year = {2020},
 month = {01},
