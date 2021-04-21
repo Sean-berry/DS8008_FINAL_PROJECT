@@ -52,11 +52,5 @@ Oracle(QANet)      |0.932        | 0.840       |   0.878          | 0.868  |
 
 
 
-{
-author = {Liu, Ye and Zhang, Sheng and Song, Rui and Feng, Suo and Xiao, Yanghua},
-year = {2020},
-month = {01},
-pages = {8595-8604},
-title = {Knowledge-guided Open Attribute Value Extraction with Reinforcement Learning},
-}
+Liu, Ye, Sheng Zhang, Rui Song, Suo Feng, and Yanghua Xiao. “Knowledge-Guided Open Attribute Value Extraction with Reinforcement Learning.” ArXiv:2010.09189 [Cs], October 18, 2020. http://arxiv.org/abs/2010.09189.
 
